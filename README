@@ -1,4 +1,5 @@
 # boots-n-cats - Techno, clojure style.
+# See the blog at: http://eng.wealthfront.com/2012/02/boots-n-cats-every-techno-song-ever-in.html
 
 $ lein new boots-and-cats
 $ cd boots-and-cats
